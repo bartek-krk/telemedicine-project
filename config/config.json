@@ -1,0 +1,6 @@
+{
+    "datasource.host": "mysql.agh.edu.pl",
+    "datasource.user": "blukasi2",
+    "datasource.password": "<redacted>",
+    "datasource.schema": "blukasi2"
+}
